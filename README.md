@@ -4,7 +4,7 @@ A simple and stylish web calculator. This project is designed to perform basic a
 
 ## Demo
 
-Check out the live demo [here](https://github.com/anuragvisioner/MyCalculator.git).
+Check out the live demo [here](https://anuragvisioner.github.io/MyCalculator/).
 
 ## Features
 
